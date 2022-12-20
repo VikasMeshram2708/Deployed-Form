@@ -5,7 +5,7 @@ const Dashboard = () => {
   const navigate = useNavigate();
   const [data, setData] = useState([]);
 
-  const API_URI = "api/auth/getAllUsers";
+  const API_URI = "/api/auth/getAllUsers";
 
   const fetchUsers = async () => {
     const response = await fetch(API_URI, {
