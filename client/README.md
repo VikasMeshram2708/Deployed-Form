@@ -19,8 +19,8 @@
 
 ## Server Side
 
-- [] npm init -y
-- [] npm i express volleyball bcryptjs jsonwebtoken dotenv monk
+- [x] npm init -y
+- [x] npm i express volleyball bcryptjs jsonwebtoken dotenv monk
   [
   volleyball: http request logger for backend
   bcryptjs : Used for hashing the credentials
