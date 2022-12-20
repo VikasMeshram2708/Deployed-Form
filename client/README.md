@@ -1,7 +1,7 @@
 # We are live on https://curious-houndstooth-tuna.cyclic.app/
 
 ### Test 
-* email : test@gmail.com
+* email : test1@gmail.com
 * password:test
 
 # From Validation App
