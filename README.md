@@ -4,4 +4,4 @@
 
 
 * email : test1@gmail.com
-* password:test
+* password:test1
